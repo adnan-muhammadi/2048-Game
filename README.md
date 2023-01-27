@@ -4,7 +4,7 @@ The famous 2048 game made in react, with a personal touch and animations
 
 # Start the game
 You can try the game from this link
-   https://monicatvera.github.io/2048
+   https://2048-by-adnan.vercel.app
      
 ## Built With 🛠️
 
